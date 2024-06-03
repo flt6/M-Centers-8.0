@@ -82,11 +82,12 @@ namespace MCenters
                 
                 var is64 = Environment.Is64BitProcess;
                 var str = is64 ? "x64" : "x86";
+                var url = is64 ? "https://github.com/tinedpakgamer/M-Centers-8.0/raw/master/VC_redist.x64.exe" : "https://github.com/tinedpakgamer/M-Centers-8.0/raw/master/VC_redist.x86.exe";
                 Application.Current.Dispatcher.Invoke(() =>
                 {
 
 
-                    Screens.ShowDialog("Microsoft Visual C++ Redistributable", $"Microsoft Visual C++ Redistributable {str} is required to use this Mod Option", "Later", "Download Now", () => Functions.OpenBrowser("https://www.google.com/"), null);
+                    Screens.ShowDialog("Microsoft Visual C++ Redistributable", $"Microsoft Visual C++ Redistributable {str} is required to use this Mod Option", "Later", "Download Now", () => Functions.OpenBrowser(url), null);
                 });
                 return false;
 
