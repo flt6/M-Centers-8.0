@@ -1,4 +1,6 @@
-## (FluentWPF)[https://github.com/sourcechord/FluentWPF]
+----------------------------------------------------------------------------------------------
+Product: FluentWPF
+URL: https://github.com/sourcechord/FluentWPF
 MIT License
 
 Copyright (c) 2016 minami_SC
@@ -21,9 +23,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+----------------------------------------------------------------------------------------------
 
-
-## (MaterialDesignThemes.Wpf and MaterialDesignColors.dll)[https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/tree/master]
+Product: MaterialDesignThemes.Wpf and MaterialDesignColors.dll
+URL: https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/tree/master
 The MIT License (MIT)
 
 Copyright (c) James Willock,  Mulholland Software and Contributors
@@ -46,9 +49,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+----------------------------------------------------------------------------------------------
 
-
-## (Zydis)[https://github.com/zyantific/zydis]
+Product: Zydis
+URL: https://github.com/zyantific/zydis
 The MIT License (MIT)
 
 Copyright (c) 2014-2024 Florian Bernd
