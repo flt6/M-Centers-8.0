@@ -4,12 +4,23 @@
 <h1 align='center'>M Centers 8th Edition</h1>
 <p align='center'>A multi-method &amp; WIP (Stable, Safe & Working) unlocker for <em>Minecraft for Windows</em>, and any other programs that use the same licensing system as <em>Minecraft for Windows</em>.
 </p>
-
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/tinedpakgamer/M-Centers-8.0?include_prereleases)](https://img.shields.io/github/v/release/tinedpakgamer/M-Centers-8.0?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/tinedpakgamer/M-Centers-8.0)](https://img.shields.io/github/last-commit/tinedpakgamer/M-Centers-8.0)
-[![GitHub issues](https://img.shields.io/github/issues-raw/tinedpakgamer/M-Centers-8.0)](https://img.shields.io/github/issues-raw/tinedpakgamer/M-Centers-8.0)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tinedpakgamer/M-Centers-8.0)](https://img.shields.io/github/issues-pr/tinedpakgamer/M-Centers-8.0)
-[![GitHub contributors number](https://img.shields.io/github/contributors/tinedpakgamer/M-Centers-8.0)](https://img.shields.io/github/contributors/tinedpakgamer/M-Centers-8.0)
+<p align='center'>
+<picture>
+  <img alt="Last Release" src="https://img.shields.io/github/v/release/tinedpakgamer/M-Centers-8.0?include_prereleases">
+</picture>
+<picture>
+  <img alt="Last Commit Date" src="https://img.shields.io/github/last-commit/tinedpakgamer/M-Centers-8.0">
+</picture>
+<picture>
+  <img alt="Number of Open Issues" src="https://img.shields.io/github/issues-raw/tinedpakgamer/M-Centers-8.0">
+</picture>
+<picture>
+  <img alt="Number of Open Pull Requests" src="https://img.shields.io/github/issues-pr/tinedpakgamer/M-Centers-8.0">
+</picture>
+<picture>
+  <img alt="Number of Contributors" src="https://img.shields.io/github/contributors/tinedpakgamer/M-Centers-8.0">
+</picture>
+</p>
 
 ## Usage
 
